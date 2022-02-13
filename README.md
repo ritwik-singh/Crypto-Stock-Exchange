@@ -44,7 +44,8 @@ This Project is licensed under the MIT License, see the [LICENSE](LICENSE) file 
 
 ### Training 
 
-
+## 🔧 Project Diagram
+![Project workflow](https://i.gyazo.com/7328e5390fa92f147077ff5c963abf1b.png)
 
 
 ### Pipeline
