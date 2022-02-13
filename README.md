@@ -1,4 +1,4 @@
-# Unusual Acitivity Detection
+# Crypto-Stock-Exchange
 
 
 ## Getting Started
