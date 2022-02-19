@@ -22,7 +22,7 @@ They can be installed from the Python Package Index using pip as follows :
 ## Contributing
 You are welcome to contribute :
 
-1. Fork it (https://github.com/ritwik-singh/unusual_activity_detection/fork)
+1. Fork it (https://github.com/ritwik-singh/Crypto-Stock-Exchange/fork)
 2. Create new branch : `git checkout -b new_feature`
 3. Commit your changes : `git commit -am 'Added new_feature'`
 4. Push to the branch : `git push origin new_feature`
