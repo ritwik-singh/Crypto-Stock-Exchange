@@ -6,20 +6,13 @@
 ### Prerequisites
 Running this project on your local system requires the following packages to be installed :
 
-* Tensorflow
-* Keras
-* numpy
-* pandas
+* NodeJS
 
 
 
 They can be installed from the Python Package Index using pip as follows :
  
-     pip install numpy
-     pip install keras
-     pip install pandas
-     pip install tensorflow
-     pip install tensorflow-gpu
+     
  
 ### Usage
 
@@ -39,18 +32,12 @@ If you have any new ideas or suggestions to improve this project, feel free to c
 ## License
 This Project is licensed under the MIT License, see the [LICENSE](LICENSE) file for details.
 
-## Project Description and Results
 
-
-### Training 
 
 ## 🔧 Project Diagram
 ![Project workflow](https://i.gyazo.com/7328e5390fa92f147077ff5c963abf1b.png)
 
 
-### Pipeline
-
-### Results
 
 ## Final Notes
 **Thanks for going through this Repository! Have a nice day.**</br>
