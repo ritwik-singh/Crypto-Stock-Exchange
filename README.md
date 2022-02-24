@@ -35,13 +35,17 @@ You are welcome to contribute :
 5. Submit a pull request !
 If you have any new ideas or suggestions to improve this project, feel free to contact me. Your valuable feedback is highly appreciated!
 
+
+
+## 🔧 Project Diagram
+![Project workflow](https://i.gyazo.com/7328e5390fa92f147077ff5c963abf1b.png)
+
+
 ## License
 This Project is licensed under the MIT License, see the [LICENSE](LICENSE) file for details.
 
 
 
-## 🔧 Project Diagram
-![Project workflow](https://i.gyazo.com/7328e5390fa92f147077ff5c963abf1b.png)
 
 
 
