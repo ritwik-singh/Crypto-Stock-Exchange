@@ -7,10 +7,16 @@
 Running this project on your local system requires the following packages to be installed :
 
 * NodeJS
+* Truffle
+* Ganache
+* Solidity
+* Redux devtools
+* Metamask
+* Infura
 
 
 
-They can be installed from the Python Package Index using pip as follows :
+
  
      
  
