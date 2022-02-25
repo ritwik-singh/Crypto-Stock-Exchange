@@ -17,7 +17,7 @@ Running this project on your local system requires the following packages to be 
 
 
 
-#### Steps to run project ####
+## Steps to run project ##
 
 Make sure you have all the prerequisites installled in your local machine.
 
@@ -33,7 +33,7 @@ npm install
 npm install -g truffle
 ```
 
-##### Running the project
+### Running the project
 
 
 Compile project
