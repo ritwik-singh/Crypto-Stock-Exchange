@@ -19,9 +19,36 @@ Running this project on your local system requires the following packages to be 
 
  
      
- 
-### Usage
+ ```bash
+npm install
+```
 
+### Setting up the development environment 
+
+```bash
+npm install -g truffle
+```
+
+##### Running the project
+
+
+Compile project
+
+```bash
+truffle compile
+```
+
+Deploy project
+
+```bash
+truffle migrate
+```
+
+Run Web-App
+
+```bash
+npm run dev
+```
 
 
 
